@@ -1,0 +1,42 @@
+SWEN-250 Activity Journal
+Ruby - Diet Manager
+
+Name: Daniel Cho
+
+NOTE: Create additional Part 1 & 2 log entries 
+based on the order of implementation.
+
+================================================================
+Part 1 - Product & Unit Test Classes - Start
+Estimated Time	3HH 0MM
+Plan for this level:
+1. Look at the instructions and lecture notes.
+2. Build the frame of the code.
+3. Include all the details of the code.
+4. See if your program works as it has to.
+5. If not, figure out where the problems come from and fix them.
+6. Finish up with the entire code and run it again to test for the last time.
+
+Part 1 - Product & Unit Test Classes - Completed
+Actual Time	30HH 0MM
+Lessons learned, problems encountered, obstacles overcome, etc.
+1. I encountered many ruby syntax understanding problems.
+2. I learned how to test classes in ruby.
+3. I overcame these problems by using outside resources.
+================================================================
+Part 2 - DietManager Levels - Start
+Estimated Time	3HH 0MM
+Plan for this level:
+
+Part 2 - DietManager Levels - Completed
+Actual Time	5HH 0MM
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+
+================================================================
+Overall Summary
+Estimated Total Time	6HH 0MM
+Actual Total Time	35HH 0MM
+Project reflection:
+1. Diving into the depth of a new programming language was challenging than I thought.
+2. Understanding Ruby Hash structures were very challenging.
